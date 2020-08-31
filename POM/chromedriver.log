@@ -1,4 +1,4 @@
-[0.001][INFO]:      ChromeDriver 19.0.1068.0 E:\Tools\Selenium\Wokrspaces\26th_May_Weekend\POM\chromedriver\chromedriver.exe
+[0.001] [INFO]:      ChromeDriver 19.0.1068.0 E:\Tools\Selenium\Wokrspaces\26th_May_Weekend\POM\chromedriver\chromedriver.exe
 [1.338][FINE]:      Initializing session with capabilities {
    "browserName": "chrome",
    "chrome.switches": [  ],
